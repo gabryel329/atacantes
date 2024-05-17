@@ -13,7 +13,7 @@
 
     <link rel="canonical" href="https://getbootstrap.com/docs/5.3/examples/blog/">
 
-
+    <link rel="icon" href="images/icone.png" type="icone.png/x-icon">
 
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@docsearch/css@3">
 
@@ -128,7 +128,7 @@
                             <ul class="list-unstyled">
                                 <li>
                                     <a class="d-flex flex-column flex-lg-row gap-3 align-items-start align-items-lg-center py-3 link-body-emphasis text-decoration-none border-top"
-                                        href="#">
+                                        href="http://maiorjogador.com/">
                                         <svg class="bd-placeholder-img" width="100%" height="96"
                                             xmlns="http://www.w3.org/2000/svg" aria-hidden="true"
                                             preserveAspectRatio="xMidYMid slice" focusable="false">
@@ -141,7 +141,7 @@
                                 </li>
                                 <li>
                                     <a class="d-flex flex-column flex-lg-row gap-3 align-items-start align-items-lg-center py-3 link-body-emphasis text-decoration-none border-top"
-                                        href="#">
+                                        href="http://maiorlateral.com/">
                                         <svg class="bd-placeholder-img" width="100%" height="96"
                                             xmlns="http://www.w3.org/2000/svg" aria-hidden="true"
                                             preserveAspectRatio="xMidYMid slice" focusable="false">
@@ -154,7 +154,7 @@
                                 </li>
                                 <li>
                                     <a class="d-flex flex-column flex-lg-row gap-3 align-items-start align-items-lg-center py-3 link-body-emphasis text-decoration-none border-top"
-                                        href="#">
+                                        href="http://maioresmarketing.com/">
                                         <svg class="bd-placeholder-img" width="100%" height="96"
                                             xmlns="http://www.w3.org/2000/svg" aria-hidden="true"
                                             preserveAspectRatio="xMidYMid slice" focusable="false">
